@@ -1,0 +1,1914 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\component\\bannercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\component\\bannercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\truongducthanh_k54.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\truongducthanh_k54.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\shoppingcartscreen\\viewshoppingcartusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\shoppingcartscreen\\viewshoppingcartusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\shoppingcartscreen\\updatequantityusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\shoppingcartscreen\\updatequantityusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\shoppingcartscreen\\placeorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\shoppingcartscreen\\placeorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\shoppingcartscreen\\deleteproductusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\shoppingcartscreen\\deleteproductusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\shoppingcartscreen\\interfaces\\iviewshoppingcartusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\shoppingcartscreen\\interfaces\\iviewshoppingcartusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\shoppingcartscreen\\interfaces\\iupdatequantityusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\shoppingcartscreen\\interfaces\\iupdatequantityusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\shoppingcartscreen\\interfaces\\iplaceorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\shoppingcartscreen\\interfaces\\iplaceorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\shoppingcartscreen\\interfaces\\ideleteproductusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\shoppingcartscreen\\interfaces\\ideleteproductusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\truongducthanh_k54.usecase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\truongducthanh_k54.usecase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\truongducthanh_k54.corebusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\truongducthanh_k54.corebusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A68B73D-47BC-4C18-A484-A719AEDCC6C2}|DemDapper\\DemDapper.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\demdapper\\demdapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A68B73D-47BC-4C18-A484-A719AEDCC6C2}|DemDapper\\DemDapper.csproj|solutionrelative:demdapper\\demdapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD6048-5F84-4B50-BE7A-62955FC9CFFE}|Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.statestore.di\\truongducthanh_k54.statestore.di.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6AD6048-5F84-4B50-BE7A-62955FC9CFFE}|Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj|solutionrelative:plugins\\eshop.statestore.di\\truongducthanh_k54.statestore.di.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409F78A8-3230-4359-859E-AF9F4D9BAB7A}|Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.shopingcart.local\\truongducthanh_k54.shopingcart.localstorage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{409F78A8-3230-4359-859E-AF9F4D9BAB7A}|Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj|solutionrelative:plugins\\eshop.shopingcart.local\\truongducthanh_k54.shopingcart.localstorage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7364FD7-DA75-45C0-ACAB-8AC1A62D3445}|Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.datastore.sql.dapper\\truongducthanh_k54.datastore.sql.dapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7364FD7-DA75-45C0-ACAB-8AC1A62D3445}|Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj|solutionrelative:plugins\\eshop.datastore.sql.dapper\\truongducthanh_k54.datastore.sql.dapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52B7074-AD81-4BDF-9AFA-9C09484715B5}|Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.datastore.hardcodes\\truongducthanh_k54.datastore.hardcodes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B52B7074-AD81-4BDF-9AFA-9C09484715B5}|Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj|solutionrelative:plugins\\eshop.datastore.hardcodes\\truongducthanh_k54.datastore.hardcodes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7364FD7-DA75-45C0-ACAB-8AC1A62D3445}|Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.datastore.sql.dapper\\helper\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7364FD7-DA75-45C0-ACAB-8AC1A62D3445}|Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj|solutionrelative:plugins\\eshop.datastore.sql.dapper\\helper\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\pages\\shoppingcartcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\pages\\shoppingcartcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\controls\\productcartcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\controls\\productcartcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\controls\\cartcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\controls\\cartcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD6048-5F84-4B50-BE7A-62955FC9CFFE}|Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.statestore.di\\shoppingcartstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD6048-5F84-4B50-BE7A-62955FC9CFFE}|Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj|solutionrelative:plugins\\eshop.statestore.di\\shoppingcartstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409F78A8-3230-4359-859E-AF9F4D9BAB7A}|Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.shopingcart.local\\shopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409F78A8-3230-4359-859E-AF9F4D9BAB7A}|Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj|solutionrelative:plugins\\eshop.shopingcart.local\\shopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\pages\\viewproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\pages\\viewproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A68B73D-47BC-4C18-A484-A719AEDCC6C2}|DemDapper\\DemDapper.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\demdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A68B73D-47BC-4C18-A484-A719AEDCC6C2}|DemDapper\\DemDapper.csproj|solutionrelative:demdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7364FD7-DA75-45C0-ACAB-8AC1A62D3445}|Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.datastore.sql.dapper\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7364FD7-DA75-45C0-ACAB-8AC1A62D3445}|Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj|solutionrelative:plugins\\eshop.datastore.sql.dapper\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52B7074-AD81-4BDF-9AFA-9C09484715B5}|Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.datastore.hardcodes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52B7074-AD81-4BDF-9AFA-9C09484715B5}|Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj|solutionrelative:plugins\\eshop.datastore.hardcodes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A68B73D-47BC-4C18-A484-A719AEDCC6C2}|DemDapper\\DemDapper.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\demdapper\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A68B73D-47BC-4C18-A484-A719AEDCC6C2}|DemDapper\\DemDapper.csproj|solutionrelative:demdapper\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7364FD7-DA75-45C0-ACAB-8AC1A62D3445}|Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.datastore.sql.dapper\\helper\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7364FD7-DA75-45C0-ACAB-8AC1A62D3445}|Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj|solutionrelative:plugins\\eshop.datastore.sql.dapper\\helper\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\controls\\productitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\controls\\productitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\pages\\searchproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\pages\\searchproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\plugininterface\\datastore\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\plugininterface\\datastore\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\aa000ec10e635ce3b77511af5280901cca6967c1\\Component1_razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\e7324797a2db7f46217564e66d052b8964cae95c\\_Imports_razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\truongducthanh_k54.web.adminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\truongducthanh_k54.web.adminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba5b8d01b31dc5afd7fa21c6d3b04d9f7ce428d542a98863f99be1fd2b37d0bd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\controls\\lineitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\controls\\lineitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\controls\\ordersummarrycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\controls\\ordersummarrycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\pages\\orderconfirmcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\pages\\orderconfirmcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\pages\\placeordercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\pages\\placeordercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\orderconfirmscreen\\ivieworderconfrimusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\orderconfirmscreen\\ivieworderconfrimusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\viewproductscreen\\interfaces\\iviewproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\viewproductscreen\\interfaces\\iviewproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\viewproductscreen\\addproducttocartusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\viewproductscreen\\addproducttocartusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\pages\\orderdetailcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\pages\\orderdetailcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.common\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|solutionrelative:eshop.web.modules\\eshop.web.common\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\footerbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\footerbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\topnavbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\topnavbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.common\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|solutionrelative:eshop.web.modules\\eshop.web.common\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\controls\\customerformcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\controls\\customerformcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\plugininterface\\ui\\ishopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\plugininterface\\ui\\ishopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\plugininterface\\statestore\\istatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\plugininterface\\statestore\\istatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\plugininterface\\statestore\\ishoppingcartstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\plugininterface\\statestore\\ishoppingcartstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\plugininterface\\datastore\\iorderrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\plugininterface\\datastore\\iorderrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\orderconfirmscreen\\vieworderconfrimusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\orderconfirmscreen\\vieworderconfrimusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\adminportal\\processedorderscreen\\viewprcessedorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\adminportal\\processedorderscreen\\viewprcessedorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\adminportal\\processedorderscreen\\iviewprcessedorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\adminportal\\processedorderscreen\\iviewprcessedorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\adminportal\\outstandingorderscreen\\viewoutstandingorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\adminportal\\outstandingorderscreen\\viewoutstandingorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\adminportal\\outstandingorderscreen\\iviewoutstandingorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\adminportal\\outstandingorderscreen\\iviewoutstandingorderusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\adminportal\\orderdetailsscreen\\vieworderdetailusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\adminportal\\orderdetailsscreen\\vieworderdetailusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\adminportal\\orderdetailsscreen\\processorderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\adminportal\\orderdetailsscreen\\processorderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\adminportal\\orderdetailsscreen\\interfaces\\ivieworderdetailusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\adminportal\\orderdetailsscreen\\interfaces\\ivieworderdetailusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.usecase\\adminportal\\orderdetailsscreen\\interfaces\\iprocessorderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A25B206-4580-41AE-B4C6-51AA21C72419}|eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj|solutionrelative:eshop.usecase\\adminportal\\orderdetailsscreen\\interfaces\\iprocessorderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\model\\orderlineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\model\\orderlineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.common\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|solutionrelative:eshop.web.modules\\eshop.web.common\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.common\\controls\\searchbarcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|solutionrelative:eshop.web.modules\\eshop.web.common\\controls\\searchbarcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\pages\\processordercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\pages\\processordercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\controls\\orderlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\controls\\orderlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\controls\\orderitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\controls\\orderitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52B7074-AD81-4BDF-9AFA-9C09484715B5}|Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.datastore.hardcodes\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52B7074-AD81-4BDF-9AFA-9C09484715B5}|Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj|solutionrelative:plugins\\eshop.datastore.hardcodes\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\wwwroot\\background.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\wwwroot\\background.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.adminportal\\pages\\outstandingordercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\pages\\outstandingordercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409F78A8-3230-4359-859E-AF9F4D9BAB7A}|Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\plugins\\eshop.shopingcart.local\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409F78A8-3230-4359-859E-AF9F4D9BAB7A}|Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj|solutionrelative:plugins\\eshop.shopingcart.local\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.common\\wwwroot\\examplejsinterop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\TruongDucThanh_K54.Web.Common.csproj|solutionrelative:eshop.web.modules\\eshop.web.common\\wwwroot\\examplejsinterop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\component\\bannercomponent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\component\\bannercomponent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web.modules\\eshop.web.customerportal\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\TruongDucThanh_K54.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\model\\orderlineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\model\\orderlineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.corebusiness\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\shared\\topnavbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\shared\\topnavbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|c:\\users\\dell\\downloads\\truongducthanh_k54\\truongducthanh_k54\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\TruongDucThanh_K54.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\DemDapper\\Program.cs",
+              "RelativeDocumentMoniker": "DemDapper\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\DemDapper\\Program.cs",
+              "RelativeToolTip": "DemDapper\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "eShop.Web\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "eShop.Web\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "eShop.Web\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "eShop.Web\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eShop.Web\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "eShop.Web\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "eShop.Web\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Pages\\Error.cshtml",
+              "RelativeToolTip": "eShop.Web\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\_Imports.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\_Imports.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\_Imports.razor",
+              "RelativeToolTip": "eShop.Web\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\App.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\App.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\App.razor",
+              "RelativeToolTip": "eShop.Web\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "eShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Program.cs",
+              "RelativeToolTip": "eShop.Web\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BannerComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Component\\BannerComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Component\\BannerComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Component\\BannerComponent.razor",
+              "RelativeToolTip": "eShop.Web\\Component\\BannerComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:48:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TruongDucThanh_K54.Web",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\TruongDucThanh_K54.Web.csproj",
+              "RelativeDocumentMoniker": "eShop.Web\\TruongDucThanh_K54.Web.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\TruongDucThanh_K54.Web.csproj",
+              "RelativeToolTip": "eShop.Web\\TruongDucThanh_K54.Web.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T14:57:08.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewShoppingCartUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\ViewShoppingCartUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ShoppingCartScreen\\ViewShoppingCartUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\ViewShoppingCartUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ShoppingCartScreen\\ViewShoppingCartUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:57:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUpdateQuantityUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IUpdateQuantityUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IUpdateQuantityUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IUpdateQuantityUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IUpdateQuantityUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IViewShoppingCartUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IViewShoppingCartUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IViewShoppingCartUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IViewShoppingCartUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IViewShoppingCartUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteProductUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\DeleteProductUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ShoppingCartScreen\\DeleteProductUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\DeleteProductUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ShoppingCartScreen\\DeleteProductUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaceOrderUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\PlaceOrderUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ShoppingCartScreen\\PlaceOrderUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\PlaceOrderUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ShoppingCartScreen\\PlaceOrderUserCase.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAMwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateQuantityUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\UpdateQuantityUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ShoppingCartScreen\\UpdateQuantityUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\UpdateQuantityUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ShoppingCartScreen\\UpdateQuantityUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPlaceOrderUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IPlaceOrderUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IPlaceOrderUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IPlaceOrderUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IPlaceOrderUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDeleteProductUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IDeleteProductUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IDeleteProductUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IDeleteProductUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ShoppingCartScreen\\Interfaces\\IDeleteProductUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:42:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TruongDucThanh_K54.UseCase",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj",
+              "RelativeDocumentMoniker": "eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj",
+              "RelativeToolTip": "eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T14:33:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TruongDucThanh_K54.CoreBusiness.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj",
+              "RelativeToolTip": "eShop.CoreBusiness\\TruongDucThanh_K54.CoreBusiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T21:16:19.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DemDapper.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\DemDapper\\DemDapper.csproj",
+              "RelativeDocumentMoniker": "DemDapper\\DemDapper.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\DemDapper\\DemDapper.csproj",
+              "RelativeToolTip": "DemDapper\\DemDapper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T21:19:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TruongDucThanh_K54.StateStore.DI.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj",
+              "RelativeDocumentMoniker": "Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj",
+              "RelativeToolTip": "Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T21:16:19.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TruongDucThanh_K54.ShopingCart.LocalStorage.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj",
+              "RelativeDocumentMoniker": "Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj",
+              "RelativeToolTip": "Plugins\\eShop.ShopingCart.Local\\TruongDucThanh_K54.ShopingCart.LocalStorage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T21:16:19.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TruongDucThanh_K54.DataStore.SQL.Dapper.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj",
+              "RelativeDocumentMoniker": "Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj",
+              "RelativeToolTip": "Plugins\\eShop.DataStore.SQL.Dapper\\TruongDucThanh_K54.DataStore.SQL.Dapper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T21:16:19.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TruongDucThanh_K54.DataStore.HardCodes.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj",
+              "RelativeDocumentMoniker": "Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj",
+              "RelativeToolTip": "Plugins\\eShop.DataStore.HardCodes\\TruongDucThanh_K54.DataStore.HardCodes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T21:16:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.SQL.Dapper\\Helper\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.DataStore.SQL.Dapper\\Helper\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.SQL.Dapper\\Helper\\DataAccess.cs",
+              "RelativeToolTip": "Plugins\\eShop.DataStore.SQL.Dapper\\Helper\\DataAccess.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:37:28.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "eShop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\appsettings.json",
+              "RelativeToolTip": "eShop.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T21:16:19.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductCartComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductCartComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductCartComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductCartComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductCartComponent.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T13:49:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CartComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CartComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CartComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CartComponent.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingCartComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ShoppingCartComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ShoppingCartComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ShoppingCartComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ShoppingCartComponent.razor",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShoppingCartStateStore.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.StateStore.DI\\ShoppingCartStateStore.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.StateStore.DI\\ShoppingCartStateStore.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.StateStore.DI\\ShoppingCartStateStore.cs",
+              "RelativeToolTip": "Plugins\\eShop.StateStore.DI\\ShoppingCartStateStore.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShopingCart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\ShopingCart.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.ShopingCart.Local\\ShopingCart.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\ShopingCart.cs",
+              "RelativeToolTip": "Plugins\\eShop.ShopingCart.Local\\ShopingCart.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ViewProductComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ViewProductComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ViewProductComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ViewProductComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ViewProductComponent.razor",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwCcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:12:57.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.SQL.Dapper\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.DataStore.SQL.Dapper\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.SQL.Dapper\\ProductRepository.cs",
+              "RelativeToolTip": "Plugins\\eShop.DataStore.SQL.Dapper\\ProductRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\Product.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Model\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.HardCodes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.DataStore.HardCodes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.HardCodes\\ProductRepository.cs",
+              "RelativeToolTip": "Plugins\\eShop.DataStore.HardCodes\\ProductRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwCIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\DemDapper\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DemDapper\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\DemDapper\\DataAccess.cs",
+              "RelativeToolTip": "DemDapper\\DataAccess.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwBAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.SQL.Dapper\\Helper\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.DataStore.SQL.Dapper\\Helper\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.SQL.Dapper\\Helper\\IDataAccess.cs",
+              "RelativeToolTip": "Plugins\\eShop.DataStore.SQL.Dapper\\Helper\\IDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\_Imports.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\_Imports.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\_Imports.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:05:45.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LineItemComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\LineItemComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\LineItemComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\LineItemComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\LineItemComponent.razor",
+              "ViewState": "AQIAABMAAAAAAAAAAAAMwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductItemComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductItemComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductItemComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductItemComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductItemComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T13:49:46.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderSummarryComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\OrderSummarryComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\OrderSummarryComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\OrderSummarryComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\OrderSummarryComponent.razor",
+              "ViewState": "AQIAACoAAAAAAAAAAAAMwDYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderConfirmComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\OrderConfirmComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\OrderConfirmComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\OrderConfirmComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\OrderConfirmComponent.razor",
+              "ViewState": "AQIAACoAAAAAAAAAAAAMwDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PlaceOrderComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\PlaceOrderComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\PlaceOrderComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\PlaceOrderComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\PlaceOrderComponent.razor",
+              "ViewState": "AQIAABQAAAAAAAAAAAAMwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SearchProductComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\SearchProductComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\SearchProductComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\SearchProductComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\SearchProductComponent.razor",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAMwFAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T13:57:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAACgAAAAAAAAAAAAewDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-06T14:12:06.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IViewOrderConfrimUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\OrderConfirmScreen\\IViewOrderConfrimUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\OrderConfirmScreen\\IViewOrderConfrimUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\OrderConfirmScreen\\IViewOrderConfrimUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\OrderConfirmScreen\\IViewOrderConfrimUserCase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\_Imports.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\_Imports.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\_Imports.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IViewProductUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ViewProductScreen\\Interfaces\\IViewProductUseCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ViewProductScreen\\Interfaces\\IViewProductUseCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ViewProductScreen\\Interfaces\\IViewProductUseCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ViewProductScreen\\Interfaces\\IViewProductUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AddProductToCartUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ViewProductScreen\\AddProductToCartUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\ViewProductScreen\\AddProductToCartUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\ViewProductScreen\\AddProductToCartUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\ViewProductScreen\\AddProductToCartUserCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\DataStore\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\PluginInterface\\DataStore\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\DataStore\\IProductRepository.cs",
+              "RelativeToolTip": "eShop.UseCase\\PluginInterface\\DataStore\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:54:04.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderDetailComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\OrderDetailComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\OrderDetailComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\OrderDetailComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\OrderDetailComponent.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAFkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ExampleJsInterop.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\ExampleJsInterop.cs",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.Common\\ExampleJsInterop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\ExampleJsInterop.cs",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.Common\\ExampleJsInterop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ExampleJsInterop.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\ExampleJsInterop.cs",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\ExampleJsInterop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\ExampleJsInterop.cs",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\ExampleJsInterop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FooterBar.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\FooterBar.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\FooterBar.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\FooterBar.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\FooterBar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TopNavBar.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\TopNavBar.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\TopNavBar.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\TopNavBar.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\TopNavBar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\Component1.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.Common\\Component1.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\Component1.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.Common\\Component1.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Component1.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Component1.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Component1.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Component1.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "eShop.Web\\Shared\\NavMenu.razor.css",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T21:16:19.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CustomerFormComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CustomerFormComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CustomerFormComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CustomerFormComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CustomerFormComponent.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "eShop.Web\\Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "eShop.Web\\Data\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IShopingCart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\UI\\IShopingCart.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\PluginInterface\\UI\\IShopingCart.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\UI\\IShopingCart.cs",
+              "RelativeToolTip": "eShop.UseCase\\PluginInterface\\UI\\IShopingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IStateStore.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\StateStore\\IStateStore.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\PluginInterface\\StateStore\\IStateStore.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\StateStore\\IStateStore.cs",
+              "RelativeToolTip": "eShop.UseCase\\PluginInterface\\StateStore\\IStateStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IShoppingCartStateStore.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\StateStore\\IShoppingCartStateStore.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\PluginInterface\\StateStore\\IShoppingCartStateStore.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\StateStore\\IShoppingCartStateStore.cs",
+              "RelativeToolTip": "eShop.UseCase\\PluginInterface\\StateStore\\IShoppingCartStateStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IOrderRespository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\DataStore\\IOrderRespository.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\PluginInterface\\DataStore\\IOrderRespository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\PluginInterface\\DataStore\\IOrderRespository.cs",
+              "RelativeToolTip": "eShop.UseCase\\PluginInterface\\DataStore\\IOrderRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ViewOrderConfrimUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\OrderConfirmScreen\\ViewOrderConfrimUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\OrderConfirmScreen\\ViewOrderConfrimUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\OrderConfirmScreen\\ViewOrderConfrimUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\OrderConfirmScreen\\ViewOrderConfrimUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ViewPrcessedOrderUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\ProcessedOrderScreen\\ViewPrcessedOrderUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\AdminPortal\\ProcessedOrderScreen\\ViewPrcessedOrderUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\ProcessedOrderScreen\\ViewPrcessedOrderUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\AdminPortal\\ProcessedOrderScreen\\ViewPrcessedOrderUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IViewPrcessedOrderUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\ProcessedOrderScreen\\IViewPrcessedOrderUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\AdminPortal\\ProcessedOrderScreen\\IViewPrcessedOrderUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\ProcessedOrderScreen\\IViewPrcessedOrderUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\AdminPortal\\ProcessedOrderScreen\\IViewPrcessedOrderUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ViewOutStandingOrderUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OutStandingOrderScreen\\ViewOutStandingOrderUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\AdminPortal\\OutStandingOrderScreen\\ViewOutStandingOrderUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OutStandingOrderScreen\\ViewOutStandingOrderUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\AdminPortal\\OutStandingOrderScreen\\ViewOutStandingOrderUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IViewOutStandingOrderUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OutStandingOrderScreen\\IViewOutStandingOrderUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\AdminPortal\\OutStandingOrderScreen\\IViewOutStandingOrderUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OutStandingOrderScreen\\IViewOutStandingOrderUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\AdminPortal\\OutStandingOrderScreen\\IViewOutStandingOrderUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ViewOrderDetailUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\ViewOrderDetailUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\ViewOrderDetailUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\ViewOrderDetailUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\ViewOrderDetailUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ProcessOrderUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\ProcessOrderUseCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\ProcessOrderUseCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\ProcessOrderUseCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\ProcessOrderUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IViewOrderDetailUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\interfaces\\IViewOrderDetailUserCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\interfaces\\IViewOrderDetailUserCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\interfaces\\IViewOrderDetailUserCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\interfaces\\IViewOrderDetailUserCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IProcessOrderUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\interfaces\\IProcessOrderUseCase.cs",
+              "RelativeDocumentMoniker": "eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\interfaces\\IProcessOrderUseCase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\interfaces\\IProcessOrderUseCase.cs",
+              "RelativeToolTip": "eShop.UseCase\\AdminPortal\\OrderDetailsScreen\\interfaces\\IProcessOrderUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Component1.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Component1.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Component1.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Component1.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ExampleJsInterop.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\ExampleJsInterop.cs",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\ExampleJsInterop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\ExampleJsInterop.cs",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\ExampleJsInterop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\Order.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "OrderLineItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\OrderLineItem.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Model\\OrderLineItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\OrderLineItem.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Model\\OrderLineItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Service\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Service\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.Common\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.Common\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SearchBarComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\Controls\\SearchBarComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.Common\\Controls\\SearchBarComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\Controls\\SearchBarComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.Common\\Controls\\SearchBarComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ProcessOrderComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\ProcessOrderComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\ProcessOrderComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\ProcessOrderComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\ProcessOrderComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "OrderListComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Controls\\OrderListComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Controls\\OrderListComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Controls\\OrderListComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Controls\\OrderListComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "OrderItemComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Controls\\OrderItemComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Controls\\OrderItemComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Controls\\OrderItemComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Controls\\OrderItemComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.HardCodes\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.DataStore.HardCodes\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.DataStore.HardCodes\\OrderRepository.cs",
+              "RelativeToolTip": "Plugins\\eShop.DataStore.HardCodes\\OrderRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "background.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\background.png",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\background.png",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\background.png",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\background.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-05T21:16:19.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "OutstandingOrderComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\OutstandingOrderComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\OutstandingOrderComponent.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\OutstandingOrderComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\Pages\\OutstandingOrderComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\_Imports.razor",
+              "RelativeDocumentMoniker": "Plugins\\eShop.ShopingCart.Local\\_Imports.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\_Imports.razor",
+              "RelativeToolTip": "Plugins\\eShop.ShopingCart.Local\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "exampleJsInterop.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-05T21:16:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Service\\OrderService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Service\\OrderService.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Service\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_Imports_razor.g.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\e7324797a2db7f46217564e66d052b8964cae95c\\_Imports_razor.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\e7324797a2db7f46217564e66d052b8964cae95c\\_Imports_razor.g.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\e7324797a2db7f46217564e66d052b8964cae95c\\_Imports_razor.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\e7324797a2db7f46217564e66d052b8964cae95c\\_Imports_razor.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:40:43.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Component1_razor.g.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\aa000ec10e635ce3b77511af5280901cca6967c1\\Component1_razor.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\aa000ec10e635ce3b77511af5280901cca6967c1\\Component1_razor.g.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\aa000ec10e635ce3b77511af5280901cca6967c1\\Component1_razor.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\aa000ec10e635ce3b77511af5280901cca6967c1\\Component1_razor.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:40:49.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "BannerComponent.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Component\\BannerComponent.css",
+              "RelativeDocumentMoniker": "eShop.Web\\Component\\BannerComponent.css",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Component\\BannerComponent.css",
+              "RelativeToolTip": "eShop.Web\\Component\\BannerComponent.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T21:16:19.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eShop.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eShop.Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T21:16:19.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TruongDucThanh_K54.Web.AdminPortal.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\TruongDucThanh_K54.Web.AdminPortal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T21:16:19.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "eShop.Web\\Data\\WeatherForecastService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "eShop.Web\\Data\\WeatherForecastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "OrderLineItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\OrderLineItem.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Model\\OrderLineItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\OrderLineItem.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Model\\OrderLineItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAJB6wAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "eShop.Web\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T21:16:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba5b8d01b31dc5afd7fa21c6d3b04d9f7ce428d542a98863f99be1fd2b37d0bd\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba5b8d01b31dc5afd7fa21c6d3b04d9f7ce428d542a98863f99be1fd2b37d0bd\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba5b8d01b31dc5afd7fa21c6d3b04d9f7ce428d542a98863f99be1fd2b37d0bd\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba5b8d01b31dc5afd7fa21c6d3b04d9f7ce428d542a98863f99be1fd2b37d0bd\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:37:07.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "eShop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\appsettings.json",
+              "RelativeToolTip": "eShop.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T21:16:19.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\Order.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.CoreBusiness\\Model\\Product.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "TopNavBar.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\TopNavBar.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\TopNavBar.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Shared\\TopNavBar.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\TopNavBar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBVwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:16:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "eShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.Web\\Program.cs",
+              "RelativeToolTip": "eShop.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:19.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

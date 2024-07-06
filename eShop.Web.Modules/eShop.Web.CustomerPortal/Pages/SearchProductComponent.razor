@@ -1,0 +1,93 @@
+﻿@page "/"
+@page "/products"
+@using TruongDucThanh_K54.CoreBusiness.Model
+
+@inject ISearchProductUseCase searchProduct
+
+<!-- Tiêu đề trang -->
+
+<div class="page-title">
+    <h1>Trang Sản Phẩm</h1>
+</div>
+
+<!--html-->
+<!--hiển thị theo dạng lưới-->
+
+<hr />
+
+<div class="about_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <SearchBarComponent OnSearch="HandelSearch"></SearchBarComponent>
+        </div>
+    </div>
+</div>
+@if (products != null && products.Count() > 0)
+{
+    <div>
+        <div class="container">
+            <div class="row">
+                @foreach (var product in products)
+                {
+                    <div class="col-md-3 mb-4">
+                        <ProductCartComponent product="product"></ProductCartComponent>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <text>No Product Found.</text>
+}
+
+<!--hiển thị dạng table-->
+@* <h4>Hiện thị dạng bảng</h4>
+<hr />
+
+@if (products != null && products.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered table-hover">
+            <!--Tiêu đề bảng-->
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Tên sản phẩm</th>
+                    <th scope="col">Thương hiệu</th>
+                    <th scope="col">Giá</th>
+                </tr>
+            </thead>
+            <!--Body-->
+            <tbody>
+                @foreach (var prod in products)
+                {
+                    <tr>
+                        <td>@prod.Name</td>
+                        <td>@prod.Brand</td>
+                        <td>@prod.Price.ToString("C")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <p>Không tìm thấy sản phẩm.</p>
+} *@
+
+@code {
+    private IEnumerable<Product> products;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        products = searchProduct.Execute();
+    }
+    private void HandelSearch(string filter)
+    {
+        products = searchProduct.Execute(filter);
+    }
+}

@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TruongDucThanh_K54.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TruongDucThanh_K54.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TruongDucThanh_K54.CoreBusiness.dll": {}
+        }
+      },
+      "TruongDucThanh_K54.UseCase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TruongDucThanh_K54.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TruongDucThanh_K54.UseCase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TruongDucThanh_K54.UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TruongDucThanh_K54.CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../../eShop.CoreBusiness/TruongDucThanh_K54.CoreBusiness.csproj",
+      "msbuildProject": "../../eShop.CoreBusiness/TruongDucThanh_K54.CoreBusiness.csproj"
+    },
+    "TruongDucThanh_K54.UseCase/1.0.0": {
+      "type": "project",
+      "path": "../../eShop.UseCase/TruongDucThanh_K54.UseCase.csproj",
+      "msbuildProject": "../../eShop.UseCase/TruongDucThanh_K54.UseCase.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TruongDucThanh_K54.UseCase >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj",
+      "projectName": "TruongDucThanh_K54.StateStore.DI",
+      "projectPath": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.StateStore.DI\\TruongDucThanh_K54.StateStore.DI.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.StateStore.DI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\eShop.UseCase\\TruongDucThanh_K54.UseCase.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TruongDucThanh_K54.ShopingCart.LocalStorage.props" />
+</Project>

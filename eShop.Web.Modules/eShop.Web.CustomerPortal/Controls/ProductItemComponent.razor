@@ -1,0 +1,18 @@
+﻿@using TruongDucThanh_K54.CoreBusiness.Model
+@if(this.Product !=null)
+{
+    <tr>
+        <td>
+            <NavLink href="@($"product/{Product.ProductId}")">
+                @Product.Name
+            </NavLink>
+        </td>
+        <td>@Product.Brand</td>
+        <td>@Product.Price.ToString("c")</td>
+    </tr>
+}
+
+@code {
+    [Parameter]
+    public Product Product{ get; set; }
+}

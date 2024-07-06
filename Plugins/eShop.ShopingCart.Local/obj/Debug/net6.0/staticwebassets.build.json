@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "NgPQv1i56LVIfjCqmiYvK+pTplkuBtFPwqP5idI4Axc=",
+  "Source": "TruongDucThanh_K54.ShopingCart.LocalStorage",
+  "BasePath": "_content/TruongDucThanh_K54.ShopingCart.LocalStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TruongDucThanh_K54.ShopingCart.LocalStorage\\wwwroot",
+      "Source": "TruongDucThanh_K54.ShopingCart.LocalStorage",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/TruongDucThanh_K54.ShopingCart.LocalStorage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\background.png",
+      "SourceId": "TruongDucThanh_K54.ShopingCart.LocalStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/TruongDucThanh_K54.ShopingCart.LocalStorage",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "TruongDucThanh_K54.ShopingCart.LocalStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\TruongDucThanh_K54\\TruongDucThanh_K54\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/TruongDucThanh_K54.ShopingCart.LocalStorage",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
